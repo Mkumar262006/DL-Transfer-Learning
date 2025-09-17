@@ -1,5 +1,3 @@
-<img width="618" height="892" alt="Screenshot 2025-09-16 103707" src="https://github.com/user-attachments/assets/07fefda8-f6bd-4045-9532-47b02ca9b4b6" /># DL- Developing a Neural Network Classification Model using Transfer Learning
-
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
@@ -303,9 +301,11 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Classification Report
 
+<img width="422" height="166" alt="Screenshot 2025-09-17 092959" src="https://github.com/user-attachments/assets/f645aaa5-b10c-44d4-8378-6f0a412b296d" />
 
 
 ### New Sample Data Prediction
+<img width="369" height="643" alt="Screenshot 2025-09-17 093012" src="https://github.com/user-attachments/assets/6d4a4e58-4f92-4871-8566-37f0ede204db" />
 
 
 ## RESULT
